@@ -4,8 +4,8 @@
 
 This repo contains the master notebook for a project involving the evaluation of several machine learning models for the prediction of PH in Fairfax County, VA. It is sectioned as follows:
 
-**1. Importing Packages**
-**2. Data Preprocessing**
+1. Importing Packages
+2. Data Preprocessing
     1. Pivoting Data and Dropping Null Values
     2. Discretization
     3. Creating Lag Variables and Dataset
@@ -25,9 +25,9 @@ This repo contains the master notebook for a project involving the evaluation of
     4. Gradient Boosting Tree
     5. Multilayer Perceptron Regressor (Artificial Neural Network)
 
-Language: Python
+**Language:** Python
 
-Libraries: numpy, sklearn, pandas, matplotlib, seaborn, pprint, tensorflow
+**Libraries:** numpy, sklearn, pandas, matplotlib, seaborn, pprint, tensorflow
 
-Dataset: https://www.sciencebase.gov/catalog/item/6267d31ad34e76103ccf16aa
+**Dataset:** https://www.sciencebase.gov/catalog/item/6267d31ad34e76103ccf16aa
     
