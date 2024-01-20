@@ -1,8 +1,8 @@
 # PH-Prediction-Via-ML
 
-#Overview
+##Overview
 
-This repo contains the master notebook for a project involving the evaluation of several machine learning models for the prediction of PH in Fairfax County. It is sectioned as follows:
+This repo contains the master notebook for a project involving the evaluation of several machine learning models for the prediction of PH in Fairfax County, VA. It is sectioned as follows:
 
 1. Importing Packages
 2. Data Preprocessing
@@ -23,6 +23,6 @@ This repo contains the master notebook for a project involving the evaluation of
     2. Decision Tree
     3. Random Forest
     4. Gradient Boosting Tree
-    5. Multilayer Perceptron Regressor (Artifical Neural Network)
+    5. Multilayer Perceptron Regressor (Artificial Neural Network)
 
     
